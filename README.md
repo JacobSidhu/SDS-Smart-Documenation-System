@@ -87,16 +87,6 @@ Detailed instructions for installing on:
 
 ---
 
-## 📊 Subscription Model
-
-| Plan         | Monthly Price (20 Residents) | Included Modules                                           |
-|--------------|------------------------------|------------------------------------------------------------|
-| Basic 2+     | £200                         | File System, Resident Register, Docs Editor, Roster       |
-| Advanced     | TBC                          | + Assessments, MAR Integration, Basic Billing              |
-| Enterprise   | TBC                          | + Full Analytics, Alerts, Video Logs, Family Portal Access|
-
----
-
 ## ⚖️ License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
